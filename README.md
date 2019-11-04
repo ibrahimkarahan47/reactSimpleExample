@@ -1,10 +1,13 @@
 # Simple React Example
 This is just beginning to react. 
 
--> Components
+# Components
     -> Counters
+    
     -> Counter
+    
     -> NavBar 
+    
     Counters keeps the all counter with in.
     Counter keep the value, increment and delete part.
     NavBar behave like a statetless functional component. Just show the total counter number which is value's more than zero.
@@ -12,5 +15,5 @@ This is just beginning to react.
     via props.
     
     
-    
+    file:///home/ibrahim/Desktop/react.png
     
